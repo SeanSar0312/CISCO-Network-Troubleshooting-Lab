@@ -36,6 +36,21 @@ The Admin-PC1 reached their gateway that being 192.168.10.1. The Sales-PC1 also 
 theirs, 192.168.20.21. Which returned all packets at 0% packet loss.
 
 
+## Screenshots
+
+### Network Topology
+<img width="650" height="276" alt="Screenshot 2026-11-09 at 5 56 24 PM" src="https://github.com/user-attachments/assets/e8f6c0a5-853f-439d-80fb-217244c3cf81" />
+
+### Router Interfaces
+<img width="658" height="510" alt="ROUTER" src="https://github.com/user-attachments/assets/6d303dfd-97de-4613-82be-c3d51eb8756a" />
+
+### DHCP Configuration
+<img width="650" height="220" alt="DHCP" src="https://github.com/user-attachments/assets/221ab8df-2f8f-4a05-82f5-a7eea4da499a" />
+
+### DHCP Address Assignment
+<img width="1178" height="201" alt="DHCP ADDRESS " src="https://github.com/user-attachments/assets/8f25f1a7-1883-491a-b969-b757e568ac65" />
 
 
+### Administration-to-Sales Connectivity
+<img width="303" height="467" alt="Admin connection 2" src="https://github.com/user-attachments/assets/fa15dbdb-df6a-4279-9b4a-93ed25e87cd6" />
 
